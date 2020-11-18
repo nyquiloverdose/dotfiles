@@ -1,2 +1,2 @@
 # dotfiles
-Config files for various programs
+Config files for various programs (bash, vim, etc.)
